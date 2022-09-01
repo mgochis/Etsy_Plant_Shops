@@ -1,13 +1,14 @@
 # Etsy_Plants_Shops
 
-Dashboard Link
-Google Slides Link
+[Dashboard Link](https://public.tableau.com/views/EtsyPlantShopData/NurseryRx?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+[Google Slides Link](https://docs.google.com/presentation/d/1-ezjEoKWYN_8X0zNdRwadQ4JRfgeOBFjpD5VYN0eoMk/edit?usp=sharing)
 
 ## Overview
 
 The goal of this project to develop a competitive analysis between Etsy plant shops. I utilized Etsy's API to extract data from competing plant shops across the platform. I then used that data to understand our company's performance compared to others. 
 
-Technologies Used
+- Technologies Used
     - Postman
     - Etsy API 
     - Python
